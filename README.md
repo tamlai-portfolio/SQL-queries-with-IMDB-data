@@ -8,7 +8,7 @@ IMDB is the world's most popular and authoritative source for movie, TV and cele
 The database is obtained via this link [https://developer.imdb.com/non-commercial-datasets/]
 The database schema is as attached:
 
-![alt text]([ER Diagram.png](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/ER%20Diagram.png))
+![alt text](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/ER%20Diagram.png)
 
 ## Analysis process
 
