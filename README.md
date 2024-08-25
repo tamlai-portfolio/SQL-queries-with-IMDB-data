@@ -3,14 +3,13 @@
 ## About project
 This project used SQL for exploratory data analysis with the IMDB database.
 IMDB is the world's most popular and authoritative source for movie, TV and celebrity content. With millions of content listed, IMDB data will provide insights on the content trends, detailed information about TV shows, movies,...
-Detailed SQL queries is included in ![alt text](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/ER%20diagram.png)
-IMDB analysis with SQL file
+Detailed SQL queries is included in ![IMDB analysis with SQL file](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/ER%20diagram.png)
 
 ## Database
 The database is obtained via this link [https://developer.imdb.com/non-commercial-datasets/]
 The database schema is as attached:
 
-![alt text](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/ER%20diagram.png)
+![ER diagram](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/ER%20diagram.png)
 
 ## Analysis process
 
