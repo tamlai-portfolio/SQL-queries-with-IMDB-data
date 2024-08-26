@@ -7,7 +7,7 @@ IMDB is the world's most popular and authoritative source for movie, TV and cele
 Detailed SQL queries is included in [IMDB analysis with SQL.ipynb](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/IMDB%20analysis%20with%20SQL.ipynb)
 
 ## Database
-The database is obtained via this link [https://developer.imdb.com/non-commercial-datasets/]
+The database is obtained via [IMDB non-commercial datasets](https://developer.imdb.com/non-commercial-datasets/)
 The database schema is as attached:
 
 ![ER diagram](https://github.com/tamlai-portfolio/SQL-queries-with-IMDB-data/blob/main/ER%20diagram.png)
